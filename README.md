@@ -1,5 +1,6 @@
-# WooCommerce Payment Fee
-## _Woocommerce 3rd party plugin_
+## WooCommerce Payment Fee
+#### _Woocommerce 3rd party plugin_
+
 ### Description:
 Adds a percentage payment fee to WooCommerce Checkout for selected payment methods and allows excluding products from the fee calculation
 
@@ -21,6 +22,8 @@ Exclude specific products from the peyment fee calculation.
 *Located in Admin Edit Product pages > Product data (metabox) > General*
 
 ![payment-fee-edit_product-setting](https://github.com/lomars/woocommerce_payment_fee/assets/6169873/493a8f45-c3f3-4694-837d-feeb8ced306a)
+
+------
 
 ### Applied fee in checkout page:
 
